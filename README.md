@@ -1,2 +1,0 @@
-# ReactApp
-AUTHOR : Sneha Patil
